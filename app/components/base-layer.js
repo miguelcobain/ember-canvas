@@ -1,0 +1,1 @@
+export { default } from 'ember-canvas/components/base-layer';
